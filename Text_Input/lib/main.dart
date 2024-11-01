@@ -71,7 +71,7 @@ class _ElevatedButtonExampleState extends State {
                   context: context,
                   builder: (context) {
                     return AlertDialog(
-                      title: const Text('This is a test dialog of Rushil Patel'),
+                      title: const Text('This is a test dialog of '),
                       content: Text('Your Name is ${myController.text}'),
                       actions: [
                         TextButton(
